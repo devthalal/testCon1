@@ -1,0 +1,17 @@
+{
+  "name": "testCon1",
+  "type": "containerized",
+  "blockId": "YgCBn7CNkJ2sKVYqbw9yL",
+  "source": {
+    "https": "https://github.com/devthalal/testCon1.git",
+    "ssh": "git@github.com:devthalal/testCon1.git",
+    "branch": "block_testCon1"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono",
+  "language": "nodejs"
+}
